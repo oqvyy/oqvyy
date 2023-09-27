@@ -16,6 +16,21 @@
 <img src="https://komarev.com/ghpvc/?username=oqvyy&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="hello" align="center">
-  <h1> yo</h1>
+  <h1> yo </h1>
 <img src="https://media3.giphy.com/media/Shw0A1iV9C5ntmg78w/giphy.gif" width="100"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a project manager/product owner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> striving to make world better.
+- 🧑‍🎨: I’m also a beginning web/UX/UI designer.
+
+- :seedling: Always looking for more.
+
+- :zap: In my free time, I work on my pet projects.
+
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oqvyy)
