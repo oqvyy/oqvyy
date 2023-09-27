@@ -27,9 +27,11 @@
 
 ### :man_technologist: About Me :
 I am a project manager/product owner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> striving to make world better.
-- 🧑‍🎨: I’m also a beginning web/UX/UI designer.
+- 🧑‍🎓: Lecturer at a university.
 
 - :seedling: Always looking for more.
+
+- 🎯: Interested in 3D, web & UI/UX design
 
 - :zap: In my free time, I work on my pet projects.
 
