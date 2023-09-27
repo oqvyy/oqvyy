@@ -29,11 +29,11 @@
 I am a project manager/product owner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> striving to make world better.
 - 🧑‍🎓: Lecturer at a university.
 
-- :seedling: Always looking for more.
+- :seedling: Always looking for more
 
 - 🎯: Interested in 3D, web & UI/UX design
 
-- :zap: In my free time, I work on my pet projects.
+- :zap: In my free time, I work on my pet projects
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oqvyy)
 ---
