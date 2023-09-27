@@ -22,7 +22,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
+
 ### :man_technologist: About Me :
 I am a project manager/product owner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> striving to make world better.
 - 🧑‍🎨: I’m also a beginning web/UX/UI designer.
