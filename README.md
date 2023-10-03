@@ -61,3 +61,6 @@ I am a project manager/product owner <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
 </div>
 
+---
+
+### 🧁 My Blog : [![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://https://t.me/oqvygram)
